@@ -6,12 +6,37 @@ redirect_from:
   - /about.html
 ---
 
-I am an Master’s graduate in Electrical and Electronics Engineering.
+# Hi, I'm Mashfiqur Rahman 👋
 
-My research interests include:
+Electrical & Electronics Engineer specializing in:
 
-- Electric Vehicles
-- Power Electronics
-- Motor Drives
-- Industrial Automation
-- Computer Vision
+* ⚡ Power Electronics & EV Systems
+* 🤖 Industrial Automation & PLC Systems
+* 🧠 Motor Control (FOC, BLDC, IM)
+* 👁️ Computer Vision (YOLO, OpenCV)
+
+---
+
+## 🎯 About Me
+
+I am a Master's graduate in Electrical and Electronics Engineering with a strong focus on practical engineering systems and research-driven development.
+
+My work focuses on bridging **the gap between simulation and real-world industrial systems**.
+
+---
+
+## 🔬 Current Focus
+
+* Electric Vehicle powertrain systems
+* EV fast charging topologies (PSFB converter)
+* Motor drive control systems
+* AI-based vision systems for automation
+
+---
+
+## 📌 Quick Links
+
+* 📄 [Download CV](/files/cv.pdf)
+* 📁 [View Projects](/portfolio/)
+* 📚 [Publications](/publications/)
+
