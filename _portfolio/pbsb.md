@@ -1,24 +1,38 @@
 ---
 
-title: "EV Fast Charger Using PSFB Converter"
-excerpt: "Design and simulation of a high-efficiency EV charging system"
-------------------------------------------------------------------------
+title: "EV Fast Charger (PSFB Converter)"
+excerpt: "High-efficiency EV charging system using Phase Shifted Full Bridge topology"
+--------------------------------------------------------------------------------------
 
 ## ⚡ Overview
 
-Designed a Phase Shifted Full Bridge (PSFB) converter for electric vehicle charging applications.
+Designed a PSFB-based EV charging converter focused on efficiency and stable output control.
 
-## 🛠️ Tools Used
+---
+
+## 🧠 Engineering Focus
+
+* DC-DC converter design
+* Soft switching techniques
+* Power loss reduction
+
+---
+
+## 🛠️ Tools
 
 * MATLAB / Simulink
-* Power Electronics Design
+* Power Electronics Simulation
 
-## 🎯 Key Results
+---
 
-* Stable DC output control
+## 📊 Outcome
+
+* Stable regulated output voltage
 * Improved efficiency under load variation
-* Verified via simulation
+* Verified in simulation environment
 
-## 📷 Results
+---
 
-(Add images later from Simulink screenshots)
+## 📷 Preview
+
+(Add Simulink screenshot here)
