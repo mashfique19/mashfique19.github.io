@@ -3,7 +3,7 @@ title: "Driving BLDC Motor Used in Electric Vehicles with PI, PID, FOPI, FOPID a
 collection: publications
 category: manuscripts
 permalink: /publication/publication2
-excerpt: 'This paper develops a face-recognizing robot that can identify and follow people.'
+excerpt: 'This paper improves electric vehicle BLDC motor control using fractional-order controllers.'
 date: 2025-12-15
 venue: 'This paper improves electric vehicle BLDC motor control using fractional-order controllers.'
 citation: 'Zenk, H., & Rahman, M. M. (2025). Elektrikli Araçlarda Kullanılan BLDC Motorun PI, PID, FOPI, FOPID ve FOPI+FOPD Tabanlı Kontrolörlerle Sürülmesi ve Verimliliklerinin Karşılaştırılması. Karadeniz Fen Bilimleri Dergisi, 15(4), 1730-1746. https://doi.org/10.31466/kfbd.1772193'
