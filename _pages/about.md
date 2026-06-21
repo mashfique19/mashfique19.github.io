@@ -6,37 +6,39 @@ redirect_from:
   - /about.html
 ---
 
-# Hi, I'm Mashfiqur Rahman 👋
+# Mashfiqur Rahman
 
-Electrical & Electronics Engineer specializing in:
+### Electrical & Electronics Engineer
 
-* ⚡ Power Electronics & EV Systems
-* 🤖 Industrial Automation & PLC Systems
-* 🧠 Motor Control (FOC, BLDC, IM)
-* 👁️ Computer Vision (YOLO, OpenCV)
+⚡ EV Systems | Power Electronics | Industrial Automation | Computer Vision
 
 ---
 
-## 🎯 About Me
+## 👋 About Me
 
-I am a Master's graduate in Electrical and Electronics Engineering with a strong focus on practical engineering systems and research-driven development.
+I am a Master's student in Electrical and Electronics Engineering focused on building **real-world engineering systems that combine simulation, control, and intelligent automation**.
 
-My work focuses on bridging **the gap between simulation and real-world industrial systems**.
+My interests lie at the intersection of:
 
----
-
-## 🔬 Current Focus
-
-* Electric Vehicle powertrain systems
-* EV fast charging topologies (PSFB converter)
+* Electric vehicle powertrains
+* Power electronic converters
 * Motor drive control systems
-* AI-based vision systems for automation
+* AI-based vision applications in industry
 
 ---
 
-## 📌 Quick Links
+## 🎯 What I Do
 
-* 📄 [Download CV](/files/cv.pdf)
-* 📁 [View Projects](/portfolio/)
-* 📚 [Publications](/publications/)
+✔ Design and simulate EV power systems
+✔ Develop motor control algorithms (FOC, BLDC, IM)
+✔ Build computer vision systems using Python & OpenCV
+✔ Work with MATLAB/Simulink for engineering validation
 
+---
+
+## 📌 Quick Access
+
+* 📄 CV → `/files/cv.pdf`
+* 📁 Projects → `/portfolio/`
+* 📚 Research → `/publications/`
+* 💼 GitHub → https://github.com/mashfique19
