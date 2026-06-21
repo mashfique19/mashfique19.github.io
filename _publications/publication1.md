@@ -3,7 +3,7 @@ title: "Design of the Human Following Robot Using Raspberry Pi"
 collection: publications
 category: manuscripts
 permalink: /publication/publication1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper develops a face-recognizing robot that can identify and follow people.'
 date: 2026-02-25
 venue: 'Springer'
 citation: 'Sapundzhi, F., Rahman, M.M., Georgiev, S., Todorov, V. (2026). Design of the Human Following Robot Using Raspberry Pi. In: Fidanova, S. (eds) Recent Advances in Computational Optimization. Studies in Computational Intelligence, vol 1237. Springer, Cham. https://doi.org/10.1007/978-3-032-05711-2_11'
