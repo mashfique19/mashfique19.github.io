@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Electrical & Electronics Engineer"
+title                    : "Mirza Mashfiqur Rahman | Electrical & Electronics Engineer"
 title_separator          : "-"
 name                     : &name "Mirza Mashfiqur Rahman"
 description              : &description "EV Systems | Power Electronics | Automation | Computer Vision"   # Update this with a general description of your site, this is the default if not overridden by a page
