@@ -23,16 +23,12 @@ Focused on building **efficient, scalable, and industry-ready engineering soluti
 * 👁️ Computer Vision (YOLO, OpenCV, Deep SORT)
 * 📊 MATLAB / Simulink Modeling
 
----
-
 ## 📌 Quick Access
 
 * [📁 Projects](portfolio)
 * [📚 Research](publications)
 * [📄 CV](files/cv.pdf)
 * [💼 GitHub](https://github.com/mashfique19)
-
----
 
 ## 📫 Contact
 
