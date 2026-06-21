@@ -16,8 +16,8 @@ Focused on building **efficient, scalable, and industry-ready engineering soluti
 
 ## 🎓 Education
 
-- **M.Sc. in [Electrical and Electronics Engineering]**, [Giresun University], [2025]
-- **B.Sc. in [Electrical and Electronics Engineering]**, [Giresun University], [2021]
+- **M.Sc.** in **[Electrical and Electronics Engineering]**, [Giresun University], [2025]
+- **B.Sc.** in **[Electrical and Electronics Engineering]**, [Giresun University], [2021]
 
 ## 🧠 Core Expertise
 
