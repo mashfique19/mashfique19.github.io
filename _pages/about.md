@@ -1,15 +1,9 @@
 ---
 permalink: /
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
----
-
-### Electrical & Electronics Engineer | EV Systems | Power Electronics | Automation
-
-🎓 M.Sc. Electrical & Electronics Engineering
-
 ---
 
 ## ⚡ Professional Summary
