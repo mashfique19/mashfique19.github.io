@@ -16,7 +16,7 @@ redirect_from:
 
 ## 👋 About Me
 
-I am a Master's student in Electrical and Electronics Engineering focused on building **real-world engineering systems that combine simulation, control, and intelligent automation**.
+I am a Master's graduate in Electrical and Electronics Engineering focused on building **real-world engineering systems that combine simulation, control, and intelligent automation**.
 
 My interests lie at the intersection of:
 
