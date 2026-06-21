@@ -37,5 +37,5 @@ Focused on building **efficient, scalable, and industry-ready engineering soluti
 
 ## 📫 Contact
 
-Email: mashfique19@gmail.com
+Email: mashfique19@gmail.com<br>
 LinkedIn: https://linkedin.com/in/mashfique19
