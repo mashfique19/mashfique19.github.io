@@ -14,8 +14,6 @@ Experienced in designing and simulating engineering systems using MATLAB/Simulin
 
 Focused on building **efficient, scalable, and industry-ready engineering solutions**.
 
----
-
 ## 🧠 Core Expertise
 
 * ⚡ Electric Vehicle Power Systems
