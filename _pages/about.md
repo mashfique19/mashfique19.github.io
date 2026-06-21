@@ -6,11 +6,9 @@ redirect_from:
   - /about.html
 ---
 
-# Mashfiqur Rahman
-
 ### Electrical & Electronics Engineer
 
-⚡ EV Systems | Power Electronics | Industrial Automation | Computer Vision
+⚡ "EV Systems | Power Electronics | Industrial Automation | Computer Vision"
 
 ---
 
