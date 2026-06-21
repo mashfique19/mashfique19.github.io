@@ -14,6 +14,11 @@ Experienced in designing and simulating engineering systems using MATLAB/Simulin
 
 Focused on building **efficient, scalable, and industry-ready engineering solutions**.
 
+## 🎓 Education
+
+- **M.Sc. in [Electrical and Electronics Engineering]**, [Giresun University], [2025]
+- **B.Sc. in [Electrical and Electronics Engineering]**, [Giresun University], [2021]
+
 ## 🧠 Core Expertise
 
 * ⚡ Electric Vehicle Power Systems
