@@ -6,37 +6,45 @@ redirect_from:
   - /about.html
 ---
 
-### Electrical & Electronics Engineer
+## Mashfiqur Rahman
 
-⚡ "EV Systems | Power Electronics | Industrial Automation | Computer Vision"
+### Electrical & Electronics Engineer | EV Systems | Power Electronics | Automation
 
----
-
-## 👋 About Me
-
-I am a Master's graduate in Electrical and Electronics Engineering focused on building **real-world engineering systems that combine simulation, control, and intelligent automation**.
-
-My interests lie at the intersection of:
-
-* Electric vehicle powertrains
-* Power electronic converters
-* Motor drive control systems
-* AI-based vision applications in industry
+📍 Istanbul, Türkiye
+🎓 M.Sc. Electrical & Electronics Engineering
 
 ---
 
-## 🎯 What I Do
+## ⚡ Professional Summary
 
-✔ Design and simulate EV power systems
-✔ Develop motor control algorithms (FOC, BLDC, IM)
-✔ Build computer vision systems using Python & OpenCV
-✔ Work with MATLAB/Simulink for engineering validation
+Electrical and Electronics Engineer specializing in **electric vehicle systems, power electronics, motor drives, and industrial automation**.
+Experienced in designing and simulating engineering systems using MATLAB/Simulink and developing real-time computer vision solutions using Python.
+
+Focused on building **efficient, scalable, and industry-ready engineering solutions**.
+
+---
+
+## 🧠 Core Expertise
+
+* ⚡ Electric Vehicle Power Systems
+* 🔌 DC-DC Converters (PSFB, Buck/Boost)
+* 🔄 Motor Control (FOC, BLDC, Induction Motor)
+* 🏭 Industrial Automation & PLC Systems
+* 👁️ Computer Vision (YOLO, OpenCV, Deep SORT)
+* 📊 MATLAB / Simulink Modeling
 
 ---
 
 ## 📌 Quick Access
 
-* 📄 CV → `/files/cv.pdf`
 * 📁 Projects → `/portfolio/`
 * 📚 Research → `/publications/`
+* 📄 CV → `/files/cv.pdf`
 * 💼 GitHub → https://github.com/mashfique19
+
+---
+
+## 📫 Contact
+
+Email: mashfique19@gmail.com
+LinkedIn: https://linkedin.com/in/mashfique19
