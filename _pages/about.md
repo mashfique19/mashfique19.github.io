@@ -29,10 +29,10 @@ Focused on building **efficient, scalable, and industry-ready engineering soluti
 
 ## 📌 Quick Access
 
-* [📁 Projects](`/portfolio/`)
-* 📚 Research → `/publications/`
-* 📄 CV → `/files/cv.pdf`
-* 💼 GitHub → https://github.com/mashfique19
+* [📁 Projects](portfoli)
+* [📚 Research](publications)
+* [📄 CV](files/cv.pdf)
+* [💼 GitHub](https://github.com/mashfique19)
 
 ---
 
