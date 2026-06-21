@@ -6,11 +6,8 @@ redirect_from:
   - /about.html
 ---
 
-## Mashfiqur Rahman
-
 ### Electrical & Electronics Engineer | EV Systems | Power Electronics | Automation
 
-📍 Istanbul, Türkiye
 🎓 M.Sc. Electrical & Electronics Engineering
 
 ---
