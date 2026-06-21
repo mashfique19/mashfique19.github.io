@@ -29,7 +29,7 @@
     .page__content,
     .page__meta,
     .page__share {
-      @include full();
+      @include none();
     }
   }
 }
