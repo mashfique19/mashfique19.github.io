@@ -5,7 +5,7 @@ excerpt: >
   Designed and validated a 120W flyback converter to step up
   12V DC to 19.5V DC using the TL494 PWM controller.<br/>
   <img src="/images/flyback_converter/flyback_3d_view.png"
-       style="width:500px; height:auto;"
+       style="width:500px; height:300px;"
        alt="Schematic">
 collection: portfolio
 
