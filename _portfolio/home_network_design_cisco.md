@@ -1,7 +1,11 @@
 ---
 
 title: "Home Network Design Using Cisco Packet Tracer"
-excerpt: "Designed and simulated a secure home network topology connecting PCs, laptops, smartphones, and smart TVs using Cisco Packet Tracer.<br/><img src='/images/cisco_network_topology.png'>"
+excerpt: >
+  Designed and simulated a secure home network topology connecting PCs, laptops, smartphones, and smart TVs using Cisco Packet Tracer.<br/>
+  <img src="/images/home_network_cisco/logical_topology.png"
+       style="width:500px; height:300px;"
+       alt="Schematic">
 collection: portfolio
 
 ---
@@ -12,7 +16,6 @@ This project involved the design and simulation of a modern household network us
 
 The network was designed to accommodate typical home applications including web browsing, video streaming, file transfers, online gaming, email communication, and distance learning.
 
----
 
 ## Objectives
 
@@ -23,7 +26,6 @@ The network was designed to accommodate typical home applications including web 
 * Simulate real-world network behavior
 * Apply network design principles using Cisco Packet Tracer
 
----
 
 ## Network Components
 
@@ -39,7 +41,6 @@ The network included the following devices:
 * Cloud Connection
 * Server
 
----
 
 ## Network Architecture
 
@@ -63,7 +64,6 @@ The network was designed around two wireless routers that served as the primary 
 
 The design ensured efficient traffic distribution and stable connectivity for all connected devices.
 
----
 
 ## Bandwidth Planning
 
@@ -76,7 +76,6 @@ The design ensured efficient traffic distribution and stable connectivity for al
 
 Bandwidth allocation was planned to support simultaneous usage of multiple applications while maintaining network performance.
 
----
 
 ## Skills Applied
 
@@ -101,7 +100,6 @@ Bandwidth allocation was planned to support simultaneous usage of multiple appli
 * Connectivity testing
 * Performance validation
 
----
 
 ## Results
 
@@ -113,27 +111,27 @@ The final network design successfully:
 * Simulated a realistic household networking environment
 * Demonstrated effective use of Cisco Packet Tracer for network planning and validation
 
----
 
 ## Project Gallery
 
 ### Logical Topology
 
-![Logical Topology](/images/cisco_network_topology.png)
-
-### Physical Topology
-
-![Physical Topology](/images/cisco_physical_view.png)
+<img src="/images/home_network_cisco/logical_topology.png"
+       style="width:500px; height:auto;"
+       alt="Logical Topology">
 
 ### Device Configuration
 
-![Router Configuration](/images/cisco_router_config.png)
+<img src="/images/home_network_cisco/device_configuration.png"
+       style="width:500px; height:auto;"
+       alt="Device Configuration">
 
 ### Simulation Results
 
-![Simulation Results](/images/cisco_simulation.png)
+<img src="/images/home_network_cisco/simulation_results.png"
+       style="width:500px; height:auto;"
+       alt="Simulation Results">
 
----
 
 ## Tools Used
 
@@ -141,7 +139,6 @@ The final network design successfully:
 * Network Simulation
 * TCP/IP Networking Concepts
 
----
 
 ## Key Learning Outcomes
 
@@ -150,3 +147,9 @@ The final network design successfully:
 * Network simulation and testing
 * Understanding real-world network infrastructure
 * Applying Cisco networking fundamentals
+
+---
+
+**Institution:** South-West University, Bulgaria<br>
+**Program:** Erasmus Exchange Program<br>
+**Project Type:** Designing Computer Network<br>
