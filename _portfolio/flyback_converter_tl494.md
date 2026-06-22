@@ -97,19 +97,19 @@ The project demonstrated the practicality of using the TL494 controller for high
 
 ### Schematic
 
-![Flyback Converter Schematic]<img src="/images/flyback_converter/flyback_schematic.png"
+<img src="/images/flyback_converter/flyback_schematic.png"
        style="width:500px; height:auto;"
        alt="Schematic">
 
 ### PCB Layout
 
-![PCB Layout]<img src="/images/flyback_converter/flyback_pcb_layout.png"
+<img src="/images/flyback_converter/flyback_pcb_layout.png"
        style="width:500px; height:auto;"
        alt="PCB Layout">
 
 ### 3D PCB View
 
-![3D PCB View]<img src="/images/flyback_converter/flyback_3d_view.png"
+<img src="/images/flyback_converter/flyback_3d_view.png"
        style="width:500px; height:auto;"
        alt="3D PCB View">
 
