@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/publication2
 excerpt: 'This paper improves electric vehicle BLDC motor control using fractional-order controllers.'
 date: 2025-12-15
-venue: 'This paper improves electric vehicle BLDC motor control using fractional-order controllers.'
+venue: 'The Black Sea Journal of Sciences'
 citation: 'Zenk, H., & Rahman, M. M. (2025). Elektrikli Araçlarda Kullanılan BLDC Motorun PI, PID, FOPI, FOPID ve FOPI+FOPD Tabanlı Kontrolörlerle Sürülmesi ve Verimliliklerinin Karşılaştırılması. Karadeniz Fen Bilimleri Dergisi, 15(4), 1730-1746. https://doi.org/10.31466/kfbd.1772193'
 ---
 Abstract
