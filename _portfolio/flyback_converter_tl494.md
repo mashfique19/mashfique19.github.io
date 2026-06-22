@@ -17,7 +17,6 @@ During my Erasmus exchange semester at South-West University, Bulgaria, I design
 
 The project focused on developing a compact and efficient DC-DC converter capable of converting a 12V input supply into a regulated 19.5V output while delivering up to 120W of power. The complete design process included theoretical calculations, circuit simulation, PCB design, hardware implementation, and performance evaluation.
 
----
 
 ## Objectives
 
@@ -28,7 +27,6 @@ The project focused on developing a compact and efficient DC-DC converter capabl
 * Minimize output voltage ripple
 * Validate the design through simulation and experimental testing
 
----
 
 ## Design Specifications
 
@@ -42,7 +40,6 @@ The project focused on developing a compact and efficient DC-DC converter capabl
 | Output Ripple           | 20 mV (peak-to-peak) |
 | Inductor Current Ripple | 1.5A                 |
 
----
 
 ## Engineering Work
 
@@ -76,7 +73,6 @@ The fabricated PCB was assembled and tested under different operating conditions
 * Thermal behavior
 * Overall performance
 
----
 
 ## Results
 
@@ -91,7 +87,6 @@ The final prototype successfully achieved:
 
 The project demonstrated the practicality of using the TL494 controller for high-power flyback converter applications while maintaining compact size and efficient operation.
 
----
 
 ## Gallery
 
@@ -113,7 +108,6 @@ The project demonstrated the practicality of using the TL494 controller for high
        style="width:500px; height:auto;"
        alt="3D PCB View">
 
----
 
 ## Skills Demonstrated
 
@@ -129,6 +123,6 @@ The project demonstrated the practicality of using the TL494 controller for high
 
 ---
 
-**Institution:** South-West University, Bulgaria
-**Program:** Erasmus Exchange Program
-**Project Type:** Power Electronics Design Project
+**Institution:** South-West University, Bulgaria<br>
+**Program:** Erasmus Exchange Program<br>
+**Project Type:** Power Electronics Design Project<br>
